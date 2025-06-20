@@ -33,7 +33,7 @@ export default function FAQ() {
 
   return (
     <div className="w-full bg-[#FBFBFB] mx-auto my-10 py-6 px-20">
-      <h2 className="text-2xl text-left font-bold font-heading mb-12 ">FREQUENTLY ASKED QUESTIONS(FAQ'S)</h2>
+      <h2 className="text-2xl text-left font-bold font-heading mb-12 ">FREQUENTLY ASKED QUESTIONS(FAQS)</h2>
       <div className="space-y-4 font-body">
         {faqData.map((item, idx) => (
           <div

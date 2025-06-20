@@ -1,5 +1,7 @@
+'use client'
+
 import Image from "next/image";
-import logo from "public/Frame 80.png/";
+import logo from "public/Frame 80.png";
 
 export default function Footer(){
     return(
